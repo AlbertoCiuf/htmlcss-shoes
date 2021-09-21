@@ -1,3 +1,4 @@
+/* GLOBAL */
 * {
   margin: 0;
   padding: 0;
@@ -12,6 +13,7 @@ body {
   font-family: 'Rubik Mono One', sans-serif;
 }
 
+/* HEADER */
 header {
   position: fixed;
   height: 70px;
@@ -42,6 +44,7 @@ header {
   box-shadow: 3px 3px 4px rgba(0,0,0,.5);
 }
 
+/* MAIN */
 .box {
   position: relative;
   width: 100%;
