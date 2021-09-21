@@ -62,7 +62,7 @@ header {
   transform: translate(-50%, -50%);
   display: block;
   text-align: center;
-  font-size: 250%;
+  font-size: 2vw;
 }
 
 .box .product img {
